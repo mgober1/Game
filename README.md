@@ -18,8 +18,19 @@ User Interaction and Experience:
 2. Gameplay Mechanics
 
 - Movement: The character's movement is dictatated by the player
-- Collecting Items: the player earns points by collecting items.
+- Collecting Items: the player earns points by collecting items and finishing the level.
 - Ground Enemies: They move and stay on the ground. They can be defeated by jumping on  them if possible, or dodging them.
 - Flying enemies: These are enemies that fly or hover in the air,  They can be defeated by jumping on them if possible, or dodging them.
 - Lives and Death: the character loses a life if any part of the enemies other than the top of them touch the character. The game ends when all lives are lost.
 - Levels: Completing a level advances you to the next level, with new controls.
+
+3. Aesthetics
+
+- Color Scheme: Bright and colorful.
+
+
+Competitive Element: This game can facilitate competition among students by challenging their adaptability and creativity. The game requires the players to quickly learn and master the new controls, while also navigating the obstacles and enemies in the game world. The game includes a leaderboard with players in order of who has the most points.
+
+Engagement and Addictiveness Strategies: The game can foster a sense of achievement and fun, as the players can compare their scores and strategies with their peers. Providing feedback and rewards for the players' performance reinforces the players' sense of progress and accomplishment, as well as encouraging them to replay the game and improve their scores. The game can also varying the level design and difficulty can help increase engagement and lead to more players wanting to see how the game changes as they continue to play. Lastly, incorporating a story or a theme that connects the gameplay elements and gives them a purpose. This adds an emotional and narrative dimension to the game, as well as making the players curious about what will happen next.
+
+Scalability and Expansion: A platformer game where the controls change every 30 seconds is a novel and challenging design that can attract and retain players who seek variety and unpredictability. The game can also appeal to casual gamers who want to have fun without mastering complex controls. The design allows for future growth and adoption by enabling the developers to create diverse levels, modes, and scenarios that test the players' adaptability and creativity. The game can also leverage user-generated content and social features to foster a loyal and engaged community.
