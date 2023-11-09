@@ -10,8 +10,10 @@ User Interaction and Experience:
 - Enemies: These are the characters or objects that try to harm or stop the player. They can be stationary, moving, or flying, and they can have different abilities and behaviors.
 - Hazards: These are the environmental features that can damage or kill the player. They can be spikes, pits, fire, water, electricity, or anything else that poses a threat.
 - Items: These are the collectibles that the player can find or obtain in the game. They can be coins, gems, stars, keys, hearts, or anything else that provides a reward or a benefit.
+    Players can use the game currency to exchange items in the game store 
 - Power-ups: These are the special items that grant the player a temporary or permanent boost or ability. They can be mushrooms, flowers, feathers, capes, suits, or anything else that enhances the player's performance.
-- Character: A kangaroo that the player controls.
+- Character: A kangaroo that the player controls. 
+    Or maybe can give more options for character choice for users to pick themselves
 - Score Display: Displays the player’s current score.
 - Lives Display: Shows how many lives the player has left.
 
