@@ -1,6 +1,7 @@
 # Game
 Introduction: The game is a platformer game that challenges the player's adaptability and reflexes. The game consists of various levels where the player has to jump, run, and avoid obstacles and enemies. However, every 30 seconds, the game randomly changes the controls, such as swapping the buttons, inverting the directions, or adding new actions. The purpose of the game is to provide a fun and engaging experience that tests the player's skills and creativity. The target audience is anyone who enjoys platformer games and likes a good challenge.
 
+
 Value/Use: A platformer game where the controls change every 30 seconds provides a unique and challenging experience for the players. It tests their adaptability, reflexes, and problem-solving skills as they navigate through different levels and obstacles. The game also offers a variety of gameplay modes, such as single-player, co-op, and competitive, to suit different preferences and moods. The game is designed to be fun, engaging, and rewarding for both casual and hardcore gamers who enjoy a dynamic and unpredictable gaming environment.
 
 User Interaction and Experience:
@@ -14,6 +15,14 @@ User Interaction and Experience:
 - Character: A kangaroo that the player controls.
 - Score Display: Displays the player’s current score.
 - Lives Display: Shows how many lives the player has left.
+
+-- I want to add an educational aspect to this. We can have like a food chain system where the player 'eats' items that are below them on the food chain, and the enemies are things above them on the food chain. So, for example, if the player plays as a kangaroo, the 'items' can be grass/alfafa/canned meat which all give different score increments. Once score is hits a certain threshold, the kangaroo goes to the next level. Some predators/enemies can be dingoes on the ground and eagles in the sky. There also may be hunting traps that the kangaroo must avoid
+
+-- perhaps there can also be an 'energy' element to it, since the kangaroo is jumping on platforms, and that requires energy. We can get a certain amount of energy from consuming 'items' (so 'items' give you both score and 'energy'). If you don't have enough energy, you cannot jump. However, there should be a lot of items around, and there should be a reservoir of energy (like an 'energy' bar to display energy levels) so the player is mostly fine.
+
+-- we should probably display a countdown of five seconds before the controls switch, as well as a couple of 'control groups' instead of having the controls be randomized. One example of this would be like WASD keys, arrow keys, or numbers. So it would say something like: Controls switching to Arrow Keys Mode in 5...
+
+-- for power-ups...what boosts a kangaroo in nature? Flowers? Special grass? These can maybe make all 'items' give double the energy for a certain time limit, make the kangaroo jump higher for a certain time limit, or increment the number of lives the kangaroo has left
 
 2. Gameplay Mechanics
 
