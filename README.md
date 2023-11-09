@@ -27,6 +27,7 @@ User Interaction and Experience:
 3. Aesthetics
 
 - Color Scheme: Bright and colorful.
+- Environment: The environment of the game can change as the player moved up a level. Each level can have different setting, such as dessert, rainforest, etc. The enemies shape/graphics also change depends of the environment, but they (ground enemies/flying enemies) can still keep the same features as listed above. 
 
 
 Competitive Element: This game can facilitate competition among students by challenging their adaptability and creativity. The game requires the players to quickly learn and master the new controls, while also navigating the obstacles and enemies in the game world. The game includes a leaderboard with players in order of who has the most points.
