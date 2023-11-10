@@ -23,6 +23,7 @@ User Interaction and Experience:
 - Collecting Items: the player earns points by collecting items and finishing the level.
 - Ground Enemies: They move and stay on the ground. They can be defeated by jumping on  them if possible, or dodging them.
 - Flying enemies: These are enemies that fly or hover in the air,  They can be defeated by jumping on them if possible, or dodging them.
+- Traps: When a player steps on a specific block, it triggers a mechanism that releases bullets randomly. The player needs to avoid the bullets. Their live will decrease by 1 if they got hit by 1 bullet. 
 - Lives and Death: the character loses a life if any part of the enemies other than the top of them touch the character. The game ends when all lives are lost.
 - Levels: Completing a level advances you to the next level, with new controls.
 
