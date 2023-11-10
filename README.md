@@ -37,6 +37,14 @@ User Interaction and Experience:
 
 - Color Scheme: Bright and colorful.
 
+-- how does the player collect items? I guess the controls are switching every 30 seconds, so that might be hard to define. Perhaps we should change the switch time to 10 seconds. 30 feels a little too long for a game, after all. 
+
+-- ground enemies are the dingoes, flying enemies are the eagles. can kangaroos jump on eagles? perhaps instead of jumping on them, the kangaroo could 'kick' them-- this would require to add sprite animations, though. Maybe each enemy could have a small hp bar. When the player defeats an enemy, they gain the equivalent of the amount of hp the enemy had in their score. 1 hp = 1 kick with no power-ups. Should 'kicks' require 'energy'? I feel like that might be too hard. Oh, perhaps some enemies could be traps or gates that block 'items', and you need to kick them a certain amount of time to break them down so you can reach the 'item'. Reminder that 'items' are food like alfafa that give you score and energy. This isn't meant to be a puzzle game, though...
+
+-- how would levels work? More on this later?
+
+-- i would like something like a savannah or whatever the kangaroo's natural habitat is as the scenery. Although the game isn't totally realistic, there is that educational aspect I want to keep. I feel like the color scheme shouldn't be too bright, since it could hurt people with sensitive eyes. Everything should have clear edges so that they are easily distinguishable from other objects in the game. It would be cool to have sound effects like whooshing noises when the kangaroo kicks an enemy, or chomping noises when the kangaroo consumes a grass 'item'. There can also be a change in the background music when the kangaroo is actively using a power-up, and the kangaroo can glow a little, so that they player knows clearly when the power-up's duration is over. The font should be simple and readable, something a mix of Times New Roman and a straight handwriting font. I think that would match the aesthetic of this game.
+
 
 Competitive Element: This game can facilitate competition among students by challenging their adaptability and creativity. The game requires the players to quickly learn and master the new controls, while also navigating the obstacles and enemies in the game world. The game includes a leaderboard with players in order of who has the most points.
 
