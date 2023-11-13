@@ -49,3 +49,11 @@ User Interaction and Experince:
 1. User Interface (UI)
 
 - Platforms: The addition of temporary platforms that disappear after the player lands on them would potentially make the game more engaging.
+- Enemies: Giving Enemis different behaaviors would allow for more variety in the game.
+- Hazards: Having a variety of hazards that do behave differently and have different timing.
+- Items: Along with using items as a way to score players, using them as a way to buy things through an in game store could potentially improve the game.
+- Power-ups: Increasing/decreasing the duaration of a power up depending on difficulty would make the game more accessible.
+
+2. Gameplay Mechanics
+
+- Movement:
