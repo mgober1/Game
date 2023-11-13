@@ -31,9 +31,9 @@ User Interaction and Experience:
 
 Competitive Element: This game can facilitate competition among students by challenging their adaptability and creativity. The game requires the players to quickly learn and master the new controls, while also navigating the obstacles and enemies in the game world. The game includes a leaderboard with players in order of who has the most points.
 
-Engagement and Addictiveness Strategies: The game can foster a sense of achievement and fun, as the players can compare their scores and strategies with their peers. Providing feedback and rewards for the players' performance reinforces the players' sense of progress and accomplishment, as well as encouraging them to replay the game and improve their scores. The game can also vary in the level design and difficulty to help increase engagement and lead to more players wanting to see how the game changes as they continue to play. Lastly, incorporating a story or a theme that connects the gameplay elements and gives them a purpose. This adds an emotional and narrative dimension to the game, as well as making the players curious about what will happen next.
+Engagement and Addictiveness Strategies: The game can foster a sense of achievement and fun, as the players can compare their scores and strategies with their peers. Providing feedback and rewards for the players' performance reinforces the players' sense of progress and accomplishment, as well as encouraging them to replay the game and improve their scores. The game can also vary in the level design and difficulty to help increase engagement and lead to more players wanting to see how the game changes as they continue to play. Lastly, incorporating a story or a theme that connects the gameplay elements and gives them a purpose. This adds an emotional and narrative dimension to the game, as well as making the players curious about what will happen next. Yo mama storyline with lots of genrational trauma. Absolutely deplorable villain - snake. Mom threw kangaroo as a child.
 
-Scalability and Expansion: A platformer game where the controls change every 30 seconds is a novel and challenging design that can attract and retain players who seek variety and unpredictability. The game can also appeal to casual gamers who want to have fun without mastering complex controls. The design allows for future growth and adoption by enabling the developers to create diverse levels, modes, and scenarios that test the players' adaptability and creativity. The game can also leverage user-generated content and social features to foster a loyal and engaged community.
+Scalability and Expansion: A platformer game where the controls change every 30 seconds is a novel and challenging design that can attract and retain players who seek variety and unpredictability. The game can also appeal to casual gamers who want to have fun without mastering complex controls. The design allows for future growth and adoption by enabling the developers to create diverse levels, modes, and scenarios that test the players' adaptability and creativity. The game can also leverage user-generated content and social features to foster a loyal and engaged community. Pay to win.
 
 Accessibility and Inclusivity: By changing the controls every 30 seconds, no player has an unfair advantage or disadvantage based on their physical or mental abilities, preferences, or backgrounds. The game also provides options for players to customize the controls to suit their needs and comfort levels. (listed below)
 - Allowing players to choose the frequency and type of control changes, such as switching between keyboard, mouse, gamepad, or touch inputs.
@@ -42,27 +42,34 @@ Accessibility and Inclusivity: By changing the controls every 30 seconds, no pla
 - Using simple and intuitive user interface elements that are easy to read and navigate.
 
 Potential Improvements
-In my opinion "better" in terms of interactive design means it improves that game in a way that makes the interaction with the game more seamless, accessible, and engaging to as many people as possible. 
+In my opinion "better" in terms of interactive design means it improves that game in a way that makes the interaction with the game more seamless, accessible, and engaging to as many people as possible.
 In order to improve this game I will look over each idea listed previously and try to think of a way to improve them.
 
 User Interaction and Experince:
 1. User Interface (UI)
 
 - Platforms: The addition of temporary platforms that disappear after the player lands on them would potentially make the game more engaging.
-- Enemies: Giving Enemis different behaaviors would allow for more variety in the game.
+- Enemies: Giving Enemies different behaviors would allow for more variety in the game.
 - Hazards: Having a variety of hazards that do behave differently and have different timing.
-- Items: Along with using items as a way to score players, using them as a way to buy things through an in game store could potentially improve the game.
-- Power-ups: Increasing/decreasing the duaration of a power up depending on difficulty would make the game more accessible.
+- Items: Along with using items as a way to score players, using them as a way to buy things through an in game store could potentially improve the game. Food you eat is natural prey
+- Power-ups: Increasing/decreasing the duration of a power up depending on difficulty would make the game more accessible. Boxing gloves. Clocks
+- Preview of the switching controls/ should always be on display
+- Changing biomes
+- Baby kangaroo attack for long range
+- Kicks will be short range
 
 2. Gameplay Mechanics
 
 - Movement: Adding a dash or a double jump would give more variety.
-- Ground and Flying Enemies: Having different types of enemies that very in speed and duraility would increase the challenge of the game.
+- Ground and Flying Enemies: Having different types of enemies that very in speed and durability would increase the challenge of the game.Natural predators of kangaroos as the enemies. Fish eagles.
 - Lives and Death: Adding a checkpoint system for each level would make the game more accessible.
-- Levels: Giving players teh ability to replay levels that they liked would be an imporvement.
+- Levels: Giving players the ability to replay levels that they liked would be an improvement.
+- Energy Bar: Fill up the energy bar to go psycho mode
+- Final boss
 
 3. Aesthetics
 
-- Music: adding music would allow the game to be more engaging.
+- Music: adding music would allow the game to be more engaging(unique to each level).
+- Sound effects: dying, jumping, etc...
 
-Competitive Element: Adding goals and challenged besides just completing a level would add more challenge. I belive this would make the game more competitive because it would get people to strive to reach the set goals.
+Competitive Element: Adding goals and challenges besides just completing a level would increase engagement. I believe this would make the game more competitive because it would get people to strive to reach the set goals.
