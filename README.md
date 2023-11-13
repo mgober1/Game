@@ -26,6 +26,7 @@ User Interaction and Experience:
 - Traps: When a player steps on a specific block, it triggers a mechanism that releases bullets randomly. The player needs to avoid the bullets. Their live will decrease by 1 if they got hit by 1 bullet. 
 - Lives and Death: the character loses a life if any part of the enemies other than the top of them touch the character. The game ends when all lives are lost.
 - Levels: Completing a level advances you to the next level, with new controls.
+- Sound effects: Include background music for different level/ different map of the game. Include sound effects when the player collected items, attacked the enemies, and died. 
 
 3. Aesthetics
 
