@@ -56,4 +56,13 @@ User Interaction and Experince:
 
 2. Gameplay Mechanics
 
-- Movement:
+- Movement: Adding a dash or a double jump would give more variety.
+- Ground and Flying Enemies: Having different types of enemies that very in speed and duraility would increase the challenge of the game.
+- Lives and Death: Adding a checkpoint system for each level would make the game more accessible.
+- Levels: Giving players teh ability to replay levels that they liked would be an imporvement.
+
+3. Aesthetics
+
+- Music: adding music would allow the game to be more engaging.
+
+Competitive Element:
