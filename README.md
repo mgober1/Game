@@ -65,4 +65,4 @@ User Interaction and Experince:
 
 - Music: adding music would allow the game to be more engaging.
 
-Competitive Element:
+Competitive Element: Adding goals and challenged besides just completing a level would add more challenge. I belive this would make the game more competitive because it would get people to strive to reach the set goals.
